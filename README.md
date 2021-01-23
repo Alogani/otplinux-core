@@ -16,3 +16,9 @@ See my wikipage ! https://github.com/Alogani/otplinux-core/wiki/How-to-include-o
 Because this project is not really mature, it is not recommanded to use it for production software.
 
 Look at https://github.com/Alogani/otplinux if you wish to have a desktop OTP manager on your desktop
+
+## Possible features to come if requested
+
+* A fully documented javadoc
+* MD5 algorithm support (although it is less secure)
+* ...
