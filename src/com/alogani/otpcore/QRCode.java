@@ -99,7 +99,7 @@ public class QRCode {
 
 
     // get new token from key and value pair
-    static public Token generateTokenFromMap (Map<String, String> map) throws InvalidQRCodeException {
+    static private Token generateTokenFromMap (Map<String, String> map) throws InvalidQRCodeException {
         // These keys must exist at this point
         String account = map.get("account");
         OTPType otpType = (map.get("otptype").equals("totp")) ? TOTP : HOTP;
