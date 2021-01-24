@@ -2,9 +2,9 @@
 
 ## About
 
-OTP for linux is an open-source desktop client to manage and generate one-time passwords (OTP).
-
 This repository contains the non-graphical elements of OTP for linux. It's meant to be used in any java program which wants to easily include OTP support without recoding it. Feel free to copy, modify and reuse this code as your liking.
+
+OTP for linux is an open-source desktop client to manage and generate one-time passwords (OTP).
 
 ## How to use it
 
