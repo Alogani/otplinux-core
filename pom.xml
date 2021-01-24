@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.alogani.otplinuxcore</groupId>
-    <artifactId>org.alogani.otpcore</artifactId>
-    <version>1.0</version>
+    <artifactId>com.alogani.otpcore</artifactId>
+    <version>0.1.0-alpha</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
