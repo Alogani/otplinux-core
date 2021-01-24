@@ -13,6 +13,6 @@ See my wikipage ! https://github.com/Alogani/otplinux-core/wiki/How-to-include-o
 
 ## Miscelleanous
 
-Because this project is not really mature, it is not recommanded to use it for production software.
+Because this project is not really mature, it is not recommanded to use it for production software. You can eventually take a look at https://github.com/samdjstevens/java-totp (I'm not affiliated and otplinux-core is not based on their work).
 
 Look at https://github.com/Alogani/otplinux if you wish to have a desktop OTP manager on your desktop

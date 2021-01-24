@@ -1,3 +1,7 @@
+OTPLINUX-CORE
+Copyright (c) 2021 Alogani
+License: MIT License
+
 ZXING
 Copyright: 2007-2020, ZXing authors
 License: Apache-2.0
@@ -9,3 +13,7 @@ License: Apache-2.0
 APACHE COMMONS-NET
 Copyright 2001-2020 The Apache Software Foundation
 License: Apache-2.0
+
+TAIMOS TOTP
+https://github.com/taimos/totp
+No licence
